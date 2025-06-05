@@ -1,0 +1,66 @@
+2025-06-05 11:24:18 INFO  TC_001_AccountRegistrationTest:16 - ********* Started Executing TC_001_AccountRegistrationTest ***********
+2025-06-05 11:24:18 INFO  TC_001_AccountRegistrationTest:21 - Clicked on MyAccount Link....
+2025-06-05 11:24:19 INFO  TC_001_AccountRegistrationTest:23 - Clicked on Register Link....
+2025-06-05 11:24:19 INFO  TC_001_AccountRegistrationTest:27 - Providing customer details...
+2025-06-05 11:24:21 INFO  TC_001_AccountRegistrationTest:56 - ***** Finished Executing TC001_AccountRegistrationTest *****
+2025-06-05 11:24:27 INFO  TC_002_LoginTest:16 - ****Started Executing TC_002_LoginTest ******
+2025-06-05 11:24:27 DEBUG TC_002_LoginTest:17 - Debug log for troubleshooting
+2025-06-05 11:24:27 INFO  TC_002_LoginTest:23 - clicked on myaccount link on the home page..
+2025-06-05 11:24:27 INFO  TC_002_LoginTest:25 - clicked on login link under myaccount..
+2025-06-05 11:24:27 INFO  TC_002_LoginTest:29 - Entering valid email and password..
+2025-06-05 11:24:28 INFO  TC_002_LoginTest:33 - clicked on login button..
+2025-06-05 11:24:29 INFO  TC_002_LoginTest:40 - Login Successful.., MyAccountPage is Exists
+2025-06-05 11:24:29 INFO  TC_002_LoginTest:41 - Test Passed
+2025-06-05 11:24:29 INFO  TC_002_LoginTest:60 - ****Finished Executing TC_002_LoginTest ******
+2025-06-05 11:25:34 INFO  TC_001_AccountRegistrationTest:16 - ********* Started Executing TC_001_AccountRegistrationTest ***********
+2025-06-05 11:25:37 INFO  TC_001_AccountRegistrationTest:21 - Clicked on MyAccount Link....
+2025-06-05 11:25:37 INFO  TC_001_AccountRegistrationTest:16 - ********* Started Executing TC_001_AccountRegistrationTest ***********
+2025-06-05 11:25:38 INFO  TC_001_AccountRegistrationTest:23 - Clicked on Register Link....
+2025-06-05 11:25:38 INFO  TC_001_AccountRegistrationTest:27 - Providing customer details...
+2025-06-05 11:25:38 INFO  TC_001_AccountRegistrationTest:21 - Clicked on MyAccount Link....
+2025-06-05 11:25:38 INFO  TC_001_AccountRegistrationTest:23 - Clicked on Register Link....
+2025-06-05 11:25:38 INFO  TC_001_AccountRegistrationTest:27 - Providing customer details...
+2025-06-05 11:25:38 INFO  TC_001_AccountRegistrationTest:56 - ***** Finished Executing TC001_AccountRegistrationTest *****
+2025-06-05 11:25:39 INFO  TC_001_AccountRegistrationTest:56 - ***** Finished Executing TC001_AccountRegistrationTest *****
+2025-06-05 17:43:56 INFO  TC_001_AccountRegistrationTest:16 - ********* Started Executing TC_001_AccountRegistrationTest ***********
+2025-06-05 17:43:56 INFO  TC_001_AccountRegistrationTest:21 - Clicked on MyAccount Link....
+2025-06-05 17:43:57 INFO  TC_001_AccountRegistrationTest:23 - Clicked on Register Link....
+2025-06-05 17:43:57 INFO  TC_001_AccountRegistrationTest:27 - Providing customer details...
+2025-06-05 17:43:59 INFO  TC_001_AccountRegistrationTest:56 - ***** Finished Executing TC001_AccountRegistrationTest *****
+2025-06-05 17:44:03 INFO  TC_002_LoginTest:16 - ****Started Executing TC_002_LoginTest ******
+2025-06-05 17:44:03 DEBUG TC_002_LoginTest:17 - Debug log for troubleshooting
+2025-06-05 17:44:03 INFO  TC_002_LoginTest:23 - clicked on myaccount link on the home page..
+2025-06-05 17:44:04 INFO  TC_002_LoginTest:25 - clicked on login link under myaccount..
+2025-06-05 17:44:04 INFO  TC_002_LoginTest:29 - Entering valid email and password..
+2025-06-05 17:44:05 INFO  TC_002_LoginTest:33 - clicked on login button..
+2025-06-05 17:44:05 INFO  TC_002_LoginTest:40 - Login Successful.., MyAccountPage is Exists
+2025-06-05 17:44:05 INFO  TC_002_LoginTest:41 - Test Passed
+2025-06-05 17:44:05 INFO  TC_002_LoginTest:60 - ****Finished Executing TC_002_LoginTest ******
+2025-06-05 18:02:27 INFO  TC_001_AccountRegistrationTest:16 - ********* Started Executing TC_001_AccountRegistrationTest ***********
+2025-06-05 18:02:27 INFO  TC_001_AccountRegistrationTest:21 - Clicked on MyAccount Link....
+2025-06-05 18:02:28 INFO  TC_001_AccountRegistrationTest:23 - Clicked on Register Link....
+2025-06-05 18:02:28 INFO  TC_001_AccountRegistrationTest:27 - Providing customer details...
+2025-06-05 18:02:30 INFO  TC_001_AccountRegistrationTest:56 - ***** Finished Executing TC001_AccountRegistrationTest *****
+2025-06-05 18:02:36 INFO  TC_002_LoginTest:16 - ****Started Executing TC_002_LoginTest ******
+2025-06-05 18:02:36 DEBUG TC_002_LoginTest:17 - Debug log for troubleshooting
+2025-06-05 18:02:36 INFO  TC_002_LoginTest:23 - clicked on myaccount link on the home page..
+2025-06-05 18:02:36 INFO  TC_002_LoginTest:25 - clicked on login link under myaccount..
+2025-06-05 18:02:36 INFO  TC_002_LoginTest:29 - Entering valid email and password..
+2025-06-05 18:02:37 INFO  TC_002_LoginTest:33 - clicked on login button..
+2025-06-05 18:02:37 INFO  TC_002_LoginTest:40 - Login Successful.., MyAccountPage is Exists
+2025-06-05 18:02:37 INFO  TC_002_LoginTest:41 - Test Passed
+2025-06-05 18:02:37 INFO  TC_002_LoginTest:60 - ****Finished Executing TC_002_LoginTest ******
+2025-06-05 18:05:03 INFO  TC_001_AccountRegistrationTest:16 - ********* Started Executing TC_001_AccountRegistrationTest ***********
+2025-06-05 18:05:03 INFO  TC_001_AccountRegistrationTest:21 - Clicked on MyAccount Link....
+2025-06-05 18:05:05 INFO  TC_001_AccountRegistrationTest:23 - Clicked on Register Link....
+2025-06-05 18:05:05 INFO  TC_001_AccountRegistrationTest:27 - Providing customer details...
+2025-06-05 18:05:10 INFO  TC_001_AccountRegistrationTest:56 - ***** Finished Executing TC001_AccountRegistrationTest *****
+2025-06-05 18:05:15 INFO  TC_002_LoginTest:16 - ****Started Executing TC_002_LoginTest ******
+2025-06-05 18:05:15 DEBUG TC_002_LoginTest:17 - Debug log for troubleshooting
+2025-06-05 18:05:15 INFO  TC_002_LoginTest:23 - clicked on myaccount link on the home page..
+2025-06-05 18:05:16 INFO  TC_002_LoginTest:25 - clicked on login link under myaccount..
+2025-06-05 18:05:16 INFO  TC_002_LoginTest:29 - Entering valid email and password..
+2025-06-05 18:05:17 INFO  TC_002_LoginTest:33 - clicked on login button..
+2025-06-05 18:05:17 INFO  TC_002_LoginTest:40 - Login Successful.., MyAccountPage is Exists
+2025-06-05 18:05:17 INFO  TC_002_LoginTest:41 - Test Passed
+2025-06-05 18:05:17 INFO  TC_002_LoginTest:60 - ****Finished Executing TC_002_LoginTest ******
